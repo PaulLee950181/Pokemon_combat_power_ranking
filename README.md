@@ -3,6 +3,7 @@
 The problem is to construct a real-time Pokemon combat power leader board.
 
 We have some commands lead to special function, 
+
 'I' : 
 Add a Pokemon to the combat power leader board（given ID and combat power）.
 
