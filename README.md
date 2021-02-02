@@ -22,4 +22,4 @@ Given a range of combat power, output its highest and lowest ranking.
 'A' : 
 Given a range of ranking, output its highest and lowest combat power.
 
-Used red-black tree and augmenting data structures.
+The program used red-black tree and augmenting data structures.
